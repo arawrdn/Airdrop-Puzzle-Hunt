@@ -29,3 +29,11 @@ flower
 sun
 
 # User manually write code Using (") Example "solana" and then Claim.
+
+
+## Features
+- Owner can add more codes.  
+- User interaction: claim reward via code.  
+- Fully on-chain, no external libraries.  
+- Reward pool deposited manually by owner.  
+
